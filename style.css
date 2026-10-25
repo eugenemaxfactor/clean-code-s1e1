@@ -35,6 +35,9 @@
 .new-task-controls {
   display: flex;
 }
+.new-task-form {
+  margin: 1em 0;
+}
 .task-list {
   margin: 0;
   padding: 0px;
